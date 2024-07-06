@@ -158,4 +158,5 @@ if __name__ == '__main__':
             print("Chatting...")
             chat(query)
 
-'''hjyfhfkhkyjygbjfjjhjhk0.gysyufggudsvyfydggdyttdvdhybvdjnhdhghdthdgy'''
+'''voice recognition problem 
+available microphone listed'''
